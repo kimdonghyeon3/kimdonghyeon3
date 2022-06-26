@@ -2,11 +2,8 @@
 
 <h3 align="center">
 hello! My name is Donghyun Kim. <br>
-I'm looking for a backend, but I've tried and tried various projects!
+I've tried and tried various projects!
 </h3>
-
-<br><br>
-
 <h2>
   <strong> ⚡ Skill-stack</strong>
 </h2>
@@ -20,9 +17,6 @@ I'm looking for a backend, but I've tried and tried various projects!
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=flat-square&logo=Android&logoColor=white">
 </p>
-
-<br><br>
-
 <h2>
   <strong> 💬 Contect</strong>
 </h2>
@@ -31,10 +25,5 @@ I'm looking for a backend, but I've tried and tried various projects!
   <img src="https://img.shields.io/badge/Infodon.tistory.com-20C997.svg?style=flat-square&logo=Velog&logoColor=white">
   <img src="https://img.shields.io/badge/kimdonghyeon98@gmail.com-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white">
 </p>
-
-<br><br>
-<hr>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimdonghyeon3&hide=contribs,prs">
-</p>
+<hr>
