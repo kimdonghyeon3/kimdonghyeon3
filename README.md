@@ -1,6 +1,4 @@
-### Hi there 👋
-
-⚡![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Donghyeon%20Kim&fontSize=40)⚡
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=⚡Donghyeon%20Kim⚡&fontSize=40)
 
 hello! My name is Donghyun Kim.
 I'm looking for a backend, but I've tried and tried various projects!
