@@ -14,12 +14,12 @@ I'm looking for a backend, but I've tried and tried various projects!
 </center>
 
 ### 💬 Contect
-<center>
+
 ![Velog](https://img.shields.io/badge/Tistory-20C997.svg?style=flat-square&logo=Velog&logoColor=white)![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white)
 </center>
 <center>
 ![KDH's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdonghyeon3&hide=contribs,prs)
-</center>
+
 
 <!--
 **kimdonghyeon3/kimdonghyeon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
