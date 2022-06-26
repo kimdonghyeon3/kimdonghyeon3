@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=⚡Donghyeon%20Kim⚡&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=👋Donghyeon%20Kim&fontSize=40)
 
 hello! My name is Donghyun Kim.
+<br>
 I'm looking for a backend, but I've tried and tried various projects!
 
 ### ⚡ Skill-stack
@@ -9,8 +10,7 @@ I'm looking for a backend, but I've tried and tried various projects!
 ### 💬 Contect
 
 ![Velog](https://img.shields.io/badge/Tistory-20C997.svg?style=flat-square&logo=Velog&logoColor=white)![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white)
-</center>
-<center>
+
 ![KDH's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdonghyeon3&hide=contribs,prs)
 
 
